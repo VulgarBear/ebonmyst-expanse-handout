@@ -1,81 +1,4 @@
 
-<!-- Document Start -->
-
-<img src='https://www.gmbinder.com/images/xKmAQtK.jpg' class='cover-image'>
-
-<div class='cover-title' style='margin-top:780px;font-size:50px '>The Ebonmyst Expanse</div>
-
-<img src='https://www.gmbinder.com/images/NUdbnd3.png' class='pathfinderlogo cover-image' style="width:80%;margin-left:90px;margin-top:30px">
-
-<img src='https://www.gmbinder.com/images/4wBBdP2.png' class='covertitle cover-image' style="width:35%;margin-left:520px;margin-top:970px">
-
-<img src='https://www.gmbinder.com/images/7JHDdb0.png' class='secondedition cover-image' style="width:35%;margin-left:532px;margin-top:0px">
-
-<div class='secondedition cover-header' style="font-family: 'Eczar', sans-serif; margin-top:-32px; margin-left:-240px; color:#5E0000; border:0px; font-size: 1.1em; text-shadow: 0px 0px 0px; text-align:right; ">SECOND EDITION</div>
-
-\pagebreakNum
-
-
-
-<div style="text-align:center; margin-top:50px;">
-
-## The Ebonmyst Expanse: Player Handout
-
-</div>
-
-Welcome to the world of The Ebonmyst Expanse, a homebrewed adventure for Pathfinder 2e. This document will supply you with the necessary knowledge needed to create your new character within this world.
-
-### Copyrighted Content
-
-Most artwork and visual layout elements in this template are copyrighted by Paizo Inc. and are used for demonstration purposes only. If you plan to distribute homebrew material using this template you must remove all elements that are copyrighted: page border, parchment background and the sidebar backgrounds. However, you may use this template to share homebrew with your players, as is.
-
-**Cover:** *"Pathfinder Roleplaying Game"* by David Alvarez is licensed under **CC BY-NC 4.0**.
-
-### Fonts Used
-
-Paizo uses multiple commercial fonts for their signature **Corebook** layout. I have been able to find fitting equivalents available for non-commercial use via Google Web Fonts.
-
-The only exception is the font **Taroca** used in Pathfinder Corebook for book name and chapter and section titles. This font has unique design and is without alternative. It can be licensed from [Monotype](https://www.myfonts.com/fonts/bluevinyl/taroca/) as Web Font. It costs $28.00 and allows you 10,000 page views per month, more than enough if you do not share the GMBinder link but instead use it only to print PDFs. To implement it, add the @import code in the template style, then change all references to *Eczar* font with *Taroca Regular*.
-
-### Get Support
-
-This book is created and maintained by VulgarBear. You can find me on **The Tabletop Room** discord.
-
-<center><img src="https://www.gmbinder.com/images/4aNOoiD.png" style="width:180px;"></center><br>
-
-The book is produced with the use of [GMBinder](https://gmbinder) but version management is held on [Gitlab](https://gitlab.com/VulgarBear/the-ebonmyst-expanse-handout), if you have an issue with the book.
-
-\columnbreak
-
-<div class="redsidebar toc">
-
-## TABLE OF CONTENTS
-
-<div class="flavor">Use this column to create a table of contents so readers navigate through your rulebook with a click. The page number or range of pages must be put in the SPAN and also in the hyperlink field at the end of each entry. When printed to a PDF, these links will still work.</div>
-
-<div class="flavor">An alternative method of maintaining Table of Contents entries is to check the raw HTML of the document for the exact naming of section tags. By using section tags instead of pages, the entries will update as your content is pushed to a new page.</div>
-
-- ### [<span></span><span>Chapter One</span>](#p3)
-  - [<span>4</span><span>Section One</span>](#p4)
-  - [<span>5</span><span>Section Two</span>](#p5)
-  - [<span>6</span><span>Section Three</span>](#p6)
-- ### [<span></span><span>Chapter Two</span>](#p7)
-  - [<span>8</span><span>Section One</span>](#p8)
-  - [<span>9</span><span>Section Two</span>](#p9)
-  - [<span>10</span><span>Section Three</span>](#p10)
-- ### [<span></span><span>Chapter Three</span>](#p11)
-  - [<span>12</span><span>Section One</span>](#p12)
-  - [<span>13</span><span>Section Two</span>](#p13)
-  - [<span>14</span><span>Section Three</span>](#p14)
-
-
-<div style="height:280px;"></div>
-
-</div>
-
-\pagebreakNum
-
-
 <!--
 Style Begin
 Do not create content beyond this comment
@@ -1686,3 +1609,88 @@ h4 .threeaction {
 
 /* .amiri { opacity: 0.0; } */
 </style>
+
+<!-- Document Start -->
+
+<img src='https://www.gmbinder.com/images/xKmAQtK.jpg' class='cover-image'>
+
+<div class='cover-title' style='margin-top:780px;font-size:50px '>The Ebonmyst Expanse</div>
+
+<img src='https://www.gmbinder.com/images/NUdbnd3.png' class='pathfinderlogo cover-image' style="width:80%;margin-left:90px;margin-top:30px">
+
+<img src='https://www.gmbinder.com/images/4wBBdP2.png' class='covertitle cover-image' style="width:35%;margin-left:520px;margin-top:970px">
+
+<img src='https://www.gmbinder.com/images/7JHDdb0.png' class='secondedition cover-image' style="width:35%;margin-left:532px;margin-top:0px">
+
+<div class='secondedition cover-header' style="font-family: 'Eczar', sans-serif; margin-top:-32px; margin-left:-240px; color:#5E0000; border:0px; font-size: 1.1em; text-shadow: 0px 0px 0px; text-align:right; ">SECOND EDITION</div>
+
+\pagebreakNum
+
+<div style="text-align:center; margin-top:50px;">
+
+## The Ebonmyst Expanse: Player Handout
+
+</div>
+
+Welcome to the world of The Ebonmyst Expanse, a homebrewed adventure for Pathfinder 2e. This document will supply you with the necessary knowledge needed to create your new character within this world.
+
+### Copyrighted Content
+
+Most artwork and visual layout elements in this template are copyrighted by Paizo Inc. and are used for demonstration purposes only. If you plan to distribute homebrew material using this template you must remove all elements that are copyrighted: page border, parchment background and the sidebar backgrounds. However, you may use this template to share homebrew with your players, as is.
+
+**Cover:** *"Pathfinder Roleplaying Game"* by David Alvarez is licensed under **CC BY-NC 4.0**.
+
+### Fonts Used
+
+Paizo uses multiple commercial fonts for their signature **Corebook** layout. I have been able to find fitting equivalents available for non-commercial use via Google Web Fonts.
+
+The only exception is the font **Taroca** used in Pathfinder Corebook for book name and chapter and section titles. This font has unique design and is without alternative. It can be licensed from [Monotype](https://www.myfonts.com/fonts/bluevinyl/taroca/) as Web Font. It costs $28.00 and allows you 10,000 page views per month, more than enough if you do not share the GMBinder link but instead use it only to print PDFs. To implement it, add the @import code in the template style, then change all references to *Eczar* font with *Taroca Regular*.
+
+### Get Support
+
+This book was created and maintained by VulgarBear. You can find me on **The Tabletop Room** discord.
+
+<center><img src="https://www.gmbinder.com/images/4aNOoiD.png" style="width:180px;"></center><br>
+
+The book is produced with the use of [GMBinder](https://gmbinder) but version management is held on [Gitlab](https://gitlab.com/VulgarBear/the-ebonmyst-expanse-handout), if you have an issue with the book.
+
+\columnbreak
+
+<div class="redsidebar toc">
+
+## TABLE OF CONTENTS
+
+- ### [<span></span><span>The World</span>](#p3)
+  - [<span>4</span><span>Section One</span>](#p4)
+  - [<span>5</span><span>Section Two</span>](#p5)
+  - [<span>6</span><span>Section Three</span>](#p6)
+
+
+<div style="height:280px;"></div>
+
+</div>
+
+\pagebreakNum
+
+# The World
+
+<div class="wide flavor subtitle"> Dive into the world of The Ebonmyst Expanse. General knowledge about the world and it's places that will assist in crafting your character. Information showcased here would be general or easily found knowledge. </div>
+
+<div class='wide widepage'>
+
+<div class="widebar">
+
+## Ebonmyst Expanse
+
+The world of Ebonmyst Expanse has slowly been being corrupted.
+</div>
+
+<div class="thinbar rule">
+
+### Your Sidebar
+
+You can fit all kind of content in the sidebar, such as rule clarifications, optional rules, starting proficiencies for classes, tidbits of lore and anything else.
+
+</div></div>
+
+\pagebreakNum
