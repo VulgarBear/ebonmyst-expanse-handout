@@ -2,10 +2,10 @@
 
 ![Splash Image](./assets/img/splash-banner.png)
 
-![GitLab all issues](https://img.shields.io/gitlab/issues/all/VulgarBear%2Fthe-ebonmyst-expanse-handout?gitlab_url=https%3A%2F%2Fgitlab.com%2F&style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/vulgarbear/ebonmyst-expanse-handout?style=for-the-badge)
 ![GitLab (self-managed)](https://img.shields.io/gitlab/license/VulgarBear%2Fthe-ebonmyst-expanse-handout?gitlab_url=https%3A%2F%2Fgitlab.com%2F&style=for-the-badge)
-![GitLab Release (by release name)](https://img.shields.io/gitlab/v/release/VulgarBear%2Fthe-ebonmyst-expanse-handout?gitlab_url=https%3A%2F%2Fgitlab.com%2F&style=for-the-badge)
-![GitLab last commit](https://img.shields.io/gitlab/last-commit/VulgarBear%2Fthe-ebonmyst-expanse-handout?gitlab_url=https%3A%2F%2Fgitlab.com%2F&style=for-the-badge)
+![GitHub all releases](https://img.shields.io/github/downloads/vulgarbear/ebonmyst-expanse-handout/total?style=for-the-badge)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/vulgarbear/ebonmyst-expanse-handout/main?style=for-the-badge)
 
 
 </div>
